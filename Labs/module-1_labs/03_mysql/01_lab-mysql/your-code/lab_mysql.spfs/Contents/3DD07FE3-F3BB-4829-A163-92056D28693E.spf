@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ContentFilters</key>
+	<dict/>
+	<key>auto_connect</key>
+	<true/>
+	<key>data</key>
+	<dict>
+		<key>connection</key>
+		<dict>
+			<key>database</key>
+			<string>lab_mysql</string>
+			<key>host</key>
+			<string>127.0.0.1</string>
+			<key>kcid</key>
+			<string>-4607807740694130820</string>
+			<key>name</key>
+			<string>localhost</string>
+			<key>rdbms_type</key>
+			<string>mysql</string>
+			<key>sslCACertFileLocation</key>
+			<string></string>
+			<key>sslCACertFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>sslCertificateFileLocation</key>
+			<string></string>
+			<key>sslCertificateFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>sslKeyFileLocation</key>
+			<string></string>
+			<key>sslKeyFileLocationEnabled</key>
+			<integer>0</integer>
+			<key>type</key>
+			<string>SPTCPIPConnection</string>
+			<key>useSSL</key>
+			<integer>0</integer>
+			<key>user</key>
+			<string>root</string>
+		</dict>
+		<key>session</key>
+		<dict>
+			<key>connectionEncoding</key>
+			<string>utf8mb4</string>
+			<key>contentFilterV2</key>
+			<dict>
+				<key>children</key>
+				<array/>
+				<key>filterClass</key>
+				<string>groupNode</string>
+				<key>isConjunction</key>
+				<true/>
+			</dict>
+			<key>contentPageNumber</key>
+			<integer>1</integer>
+			<key>contentSelection</key>
+			<data>
+			YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0
+			b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRk
+			YXRhgAGoCwwXGBkaHiVVJG51bGzTDQ4PEBMWV05TLmtleXNaTlMu
+			b2JqZWN0c1YkY2xhc3OiERKAAoADohQVgASABYAHVHR5cGVUcm93
+			c18QHVNlbGVjdGlvbkRldGFpbFR5cGVOU0luZGV4U2V00hsPHB1c
+			TlNSYW5nZUNvdW50EACABtIfICEiWiRjbGFzc25hbWVYJGNsYXNz
+			ZXNaTlNJbmRleFNldKIjJFpOU0luZGV4U2V0WE5TT2JqZWN00h8g
+			JidcTlNEaWN0aW9uYXJ5oiYkAAgAEQAaACQAKQAyADcASQBMAFEA
+			UwBcAGIAaQBxAHwAgwCGAIgAigCNAI8AkQCTAJgAnQC9AMIAzwDR
+			ANMA2ADjAOwA9wD6AQUBDgETASAAAAAAAAACAQAAAAAAAAAoAAAA
+			AAAAAAAAAAAAAAABIw==
+			</data>
+			<key>contentSortColIsAsc</key>
+			<true/>
+			<key>contentViewport</key>
+			<string>{{0, 0}, {923.5, 577}}</string>
+			<key>isToolbarVisible</key>
+			<true/>
+			<key>queries</key>
+			<string>
+	
+</string>
+			<key>table</key>
+			<string>salespersons</string>
+			<key>view</key>
+			<string>SP_VIEW_CUSTOMQUERY</string>
+			<key>windowVerticalDividerPosition</key>
+			<real>189.5</real>
+		</dict>
+	</dict>
+	<key>encrypted</key>
+	<false/>
+	<key>format</key>
+	<string>connection</string>
+	<key>queryFavorites</key>
+	<array/>
+	<key>queryHistory</key>
+	<array>
+		<string>INSERT INTO
+	invoices (id, invoice_number, date, car,customer, sales_person)
+VALUES
+	(0,	852399038,	'22-08-2018',	0,	1,	3),
+	(1,	731166526,	'31-12-2018',	3,	0,	5),
+	(2,	271135104,	'22-01-2019',	2,	2,	7)</string>
+		<string>INSERT INTO
+	invoices (id, invoice_number, date, car,customer, sales_person)
+VALUES
+	(0,	852399038,	22-08-2018,	0,	1,	3),
+	(1,	731166526,	31-12-2018,	3,	0,	5),
+	(2,	271135104,	22-01-2019,	2,	2,	7)</string>
+		<string>INSERT INTO
+	`salespersons` (id, staff_id, name, store)
+VALUES
+	(2,	00003,	'Paul Molive',		'Berlin'),
+	(3,	00004,	'Gail Forcewind',	'Paris'),
+	(4,	00005,	'Paige Turner',		'Mimia'),
+	(5,	00006,	'Bob Frapples',		'Mexico City'),
+	(6,	00007,	'Walter Melon',		'Amsterdam'),
+	(7,	00008,	'Shonda Leer',		'São Paulo')</string>
+		<string>INSERT INTO
+	`salespersons` (id, staff_id, name, store)
+VALUES
+	(2,	00003,	'Paul Molive',		'Berlin'),
+	(3,	00004,	'Gail Forcewind'	'Paris'),
+	(4,	00005,	'Paige Turner',		'Mimia'),
+	(5,	00006,	'Bob Frapples',		'Mexico City'),
+	(6,	00007,	'Walter Melon',		'Amsterdam'),
+	(7,	00008,	'Shonda Leer',		'São Paulo')</string>
+		<string>INSERT INTO
+	`customers` (ID,	Customer_ID,	Name,	Phone,	Email,	Address,	City,	State_Province,	Country,	Postal)
+VALUES
+	(0,	10001,	'Pablo Picasso',		'+34 636 17 63 82',		'',	'Paseo de la Chopera, 14',	'Madrid',	'Madrid',			'Spain',			28045),
+	(1,	20001,	'Abraham Lincoln',		'+1 305 907 7086',		'',	'120 SW 8th St',			'Miami',	'Florida',			'United States',	33130),
+	(2,	30001,	'Napoléon Bonaparte',	'+33 1 79 75 40 00',	'',	'40 Rue du Colisée',		'Paris',	'Île-de-France',	'France',			75008)</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, '3K096I98581DHSNUP',	'Volkswagen',		'Tiguan',				2019,	'Blue'),
+	(1,	'ZM8G7BEUQZ97IH46V',		'Peugeot',		'Rifter',				2019,	'Red'),
+	(2,	'RKXVNNIHLVVZOUB4M',		'Ford',			'Fusion',				2018,	'White'),
+	(3,	'HKNDGS7CU31E9Z7JW',		'Toyota',		'RAV4',					2018,	'Silver'),
+	(4,	'DAM41UDN3CHU2WVF6',		'Volvo',		'V60',					2019,	'Gray'),
+	(5,	'DAM41UDN3CHU2WVF6',		'Volvo',		'V60 Cross Country',	2019,	'Gray')</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, 3K096I98581DHSNUP,	Volkswagen,	Tiguan,				2019,	Blue),
+	(1,	ZM8G7BEUQZ97IH46V,	Peugeot,	Rifter,				2019,	Red),
+	(2,	RKXVNNIHLVVZOUB4M,	Ford,		Fusion,				2018,	White),
+	(3,	HKNDGS7CU31E9Z7JW,	Toyota,		RAV4,				2018,	Silver),
+	(4,	DAM41UDN3CHU2WVF6,	Volvo,		V60,				2019,	Gray),
+	(5,	DAM41UDN3CHU2WVF6,	Volvo,		V60_Cross_Country,	2019,	Gray)</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, 3K096I98581DHSNUP,	Volkswagen,	Tiguan,				2019,	Blue),
+	(1,	ZM8G7BEUQZ97IH46V,	Peugeot,	Rifter,				2019,	Red),
+	(2,	RKXVNNIHLVVZOUB4M,	Ford,		Fusion,				2018,	White),
+	(3,	HKNDGS7CU31E9Z7JW,	Toyota,		RAV4,				2018,	Silver),
+	(4,	DAM41UDN3CHU2WVF6,	Volvo,		V60,				2019,	Gray),
+	(5,	DAM41UDN3CHU2WVF6,	Volvo,		V60 Cross Country,	2019,	Gray)</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, 3K096I98581DHSNUP,	Volkswagen,	Tiguan,				2019,	Blue),
+	(1,	ZM8G7BEUQZ97IH46V,	Peugeot,	Rifter,				2019,	Red),
+	(2,	RKXVNNIHLVVZOUB4M,	Ford,		Fusion,				2018,	White),
+	(3,	HKNDGS7CU31E9Z7JW,	Toyota,		RAV4,				2018,	Silver),
+	(4,	DAM41UDN3CHU2WVF6,	Volvo,		V60,				2019,	Gray),
+	(5,	DAM41UDN3CHU2WVF6	Volvo,		V60 Cross Country,	2019,	Gray)</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, 3K096I98581DHSNUP,	Volkswagen,	Tiguan,				2019,	Blue),
+	(1,	ZM8G7BEUQZ97IH46V,	Peugeot,	Rifter,				2019,	Red),
+	(2,	RKXVNNIHLVVZOUB4M,	Ford,		Fusion,				2018,	White),
+	(3	HKNDGS7CU31E9Z7JW,	Toyota,		RAV4,				2018,	Silver),
+	(4,	DAM41UDN3CHU2WVF6,	Volvo,		V60,				2019,	Gray),
+	(5,	DAM41UDN3CHU2WVF6	Volvo,		V60 Cross Country,	2019,	Gray)</string>
+		<string>INSERT INTO 
+	cars (id, vin, manufacturer, model, year, color)
+VALUES 	
+	(0, 3K096I98581DHSNUP,	Volkswagen,	Tiguan,				2019,	Blue),
+	(1,	ZM8G7BEUQZ97IH46V,	Peugeot,	Rifter,				2019,	Red),
+	(2,	RKXVNNIHLVVZOUB4M,	Ford,		Fusion,				2018,	White),
+	(3	HKNDGS7CU31E9Z7JW,	Toyota,		RAV4				2018,	Silver),
+	(4,	DAM41UDN3CHU2WVF6,	Volvo,		V60,				2019,	Gray),
+	(5,	DAM41UDN3CHU2WVF6	Volvo,		V60 Cross Country,	2019,	Gray)</string>
+		<string>CREATE TABLE invoices (
+		id INT(10),
+		invoice_number VARCHAR(9),
+		date DATE,
+		car INT(10),
+		customer INT(10),
+		sales_person INT(10))</string>
+		<string>USE `lab_mysql`</string>
+		<string>SELECT *
+FROM cars</string>
+		<string>SELECT DISTINCT
+	`seller_id`,
+	`product_id`
+FROM olist.order_items
+ORDER by 
+	seller_id,
+	`product_id`</string>
+		<string>SELECT 
+	`seller_id`,
+	`product_id`
+FROM olist.order_items
+GROUP BY
+	seller_id,
+	`product_id`
+ORDER by 
+	seller_id,
+	`product_id`</string>
+		<string>SELECT 
+	`seller_id`,
+	`product_id`
+FROM olist.order_items
+ORDER by 
+	seller_id,
+	`product_id`</string>
+		<string>SELECT 
+	`seller_id`
+	`product_id`
+FROM olist.order_items
+ORDER by 
+	seller_id,
+	`product_id`</string>
+		<string>SELECT DISTINCT -- using SELECT DISTINCT
+	`seller_id`
+FROM olist.order_items
+ORDER by 1</string>
+		<string>-- 7. Deduplicating
+
+SELECT 
+	`seller_id`
+FROM olist.order_items
+GROUP BY seller_id
+ORDER by 1</string>
+	</array>
+	<key>rdbms_type</key>
+	<string>mysql</string>
+	<key>rdbms_version</key>
+	<string>8.0.18</string>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
