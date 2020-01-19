@@ -19,7 +19,7 @@
     * Checking data of every column
         * either clean data
         * change format of data
-        * compare column iwth other column - decide if one of hte columns can be deleted
+        * compare column with other column - decide if one of the columns can be deleted
         * renaming of column header
 * Change sort order of columns (if needed)
 * Reset index as rows were deleted
