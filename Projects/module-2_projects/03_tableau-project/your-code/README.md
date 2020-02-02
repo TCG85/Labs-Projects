@@ -9,7 +9,7 @@ In this project, data with regards to the European Union (total revenue generate
 ## Deliverables
 
 * [**Link to Tableau workbook uploaded to Tableau Public**](https://public.tableau.com/profile/tg7070#!/vizhome/2020-01-31_EU_E-commerce_Analysis/EuropeanUnion-E-CommerceAnalysis) 
-* [**Data foldercontaining the data set you used**](https://github.com/TCG85/Labs-Projects/tree/master/Projects/module-2_projects/03_tableau-project/your-code/Data)
+* [**Data folder containing the data set used**](https://github.com/TCG85/Labs-Projects/tree/master/Projects/module-2_projects/03_tableau-project/your-code/Data)
 
 
 ## Approach and code for constructing visualizations/story 
